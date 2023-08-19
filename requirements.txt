@@ -1,0 +1,9 @@
+glob2
+tqdm
+librosa
+numpy
+scipy
+tensorboard
+torch
+torchvision
+webrtcvad
