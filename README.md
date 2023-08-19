@@ -1,3 +1,6 @@
+# سرویس(بات تلگرام) تبدیل صدا براساس مدل FreeVC
+اطلاعات مدل که از صفحه گیت هاب FreeVC گرفته شده است در زیر آمده است.
+اطلاعات مربوط به سرویس تبدیل صدا هم در فایل thesis.pdf آمده است.
 # FreeVC: Towards High-Quality Text-Free One-Shot Voice Conversion
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.15418)
